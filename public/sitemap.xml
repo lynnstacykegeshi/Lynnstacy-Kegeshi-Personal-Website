@@ -51,5 +51,24 @@
     <lastmod>2021-04-03T19:53:33+05:30</lastmod>
   </url><url>
     <loc>http://localhost:4321/categories/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/post/2020-12-01-r-rmarkdown/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/plot/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/post/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/categories/r/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/r-markdown/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/regression/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url>
 </urlset>
