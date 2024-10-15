@@ -177,65 +177,71 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Senior Software Developer"
-        company: "Facebook"
-        companyUrl: "https://example.com"
-        date: "Jan 2022 - present"
+      - job: "Tax Advisor"
+        company: "Ernst and Young LLP"
+        companyUrl: "https://www.ey.com/en_ke"
+        date: "Aug 2023 - present"
         featuredLink:
+          enable: false
+          url: "https://www.ey.com/en_ke"
+        info:
           enable: true
-          name: "View the project"
-          url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+          content: Currently working at Ernst & Young LLP Kenya
+        content: |
+          I am currently working as a tax advisor at [Ernst & Young Kenya](https://www.ey.com/en_ke) in Nairobi Kenya. As an Associate in the International Tax and Transfer Pricing sub-service line, I support senior team members in providing tax advisory and compliance services. 
+          
+          My key responsibilities include:
+          
+          - Tax Due Diligence Support: Assisting with tax due diligence reviews to help clients improve deal structures and minimize tax risks during mergers and acquisitions.
+          - Cross-Border Tax Assistance: Supporting tax advisory services related to cross-border transactions, including the tax implications of permanent establishments and foreign operations.
+          - Transfer Pricing Documentation: Assisting in the preparation of transfer pricing documentation to comply with local and international regulations, including supporting companies under audit by the Kenya Revenue Authority (KRA) in presenting transfer pricing files.
+          - KRA Audit Support: Providing assistance during KRA audits, especially in the preparation and presentation of transfer pricing documents.
+          - Tax Compliance: Supporting clients in meeting tax compliance obligations, ensuring accurate and timely submission of tax returns.
+          - Research and Analysis: Conducting research on relevant tax laws, treaties, and regulations to help inform tax advisory services.
+          - Client Coordination: Working with senior advisors to provide clients with effective tax strategies, ensuring compliance and addressing any cross-border tax issues.
+      
 
-      - job: "Software Developer"
-        company: "Amazon"
-        companyUrl: "https://example.com"
+      - job: "Attachee"
+        company: "REREC"
+        companyUrl: "https://www.rerec.co.ke/"
+        date: "Jun 2022 - Sept 2022"
+        featuredLink:
+          enable: false
+          url: "https://www.rerec.co.ke/"
+        info:
+          enable: true
+          content: I was an attachee at REREC for 3 months
+        content: |
+          During my attachment in the Strategy and Planning Department at Rural Electricity and Renewable Energy Corporation (REREC), I developed valuable skills in project data compilation, documentation, and administrative support. 
+          
+          My daily responsibilities included:
+
+          - Data Management: Supporting the team by entering and organizing various project-related information into the system, ensuring accurate tracking and management of inquiries.
+          - Weekly Reporting: Compiling and organizing all entries into a comprehensive weekly report, which I shared with managers for review and approval, facilitating informed decision-making.
+          - Document Management: Ensuring that all correspondence and documents were scanned and efficiently forwarded to the relevant departments for further action.
+          - File Organization: Maintaining an organized filing system for project documentation to facilitate quick access and retrieval during project implementation.
+          - Project Support: Assisting team members in locating files and information as needed to support project planning and execution.
+
+
+      - job: "Mentor"
+        company: "Technovation Girls"
+        companyUrl: "https://technovationchallenge.org/"
         date: "Sep 2020 - Dec 2021"
         featuredLink:
-          enable: true
-          url: "https://example.com"
-        info:
-          enable: true
-          content: I worked as a software developer for more than one year in Amazon.
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "Junior Software Developer"
-        company: "Apple"
-        companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
-        info:
           enable: false
-        featuredLink:
+          url: "https://technovationchallenge.org/"
+        info:
           enable: true
-          url: "https://example.com"
+          content: I mentored highschool girls in creating a mobile app.
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          As a mentor for Technovation Girls, I volunteered to guide a team of five high school girls in developing an innovative app called Fitii using App Inventor. My key responsibilities included:
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          - Project Brainstorming: Facilitating brainstorming sessions to help the team identify problems in the health community that the app could address.
+          - Technical Guidance: Providing instruction on how to use App Inventor to design and develop the app, ensuring the team understood the technical aspects of the project.
+          - Mentorship: Mentoring the girls in project management, helping them define objectives, set milestones, and stay organized throughout the project lifecycle.
+          - Problem-Solving: Assisting the team in troubleshooting and resolving challenges encountered during the app development process.
+          - Presentation Skills: Coaching the team on how to effectively present their app and ideas, preparing them for pitch events and competitions.
 
-      - job: "UI/UX Designer"
-        company: "Netflix"
-        companyUrl: "https://example.com"
-        date: "June 2017 - Nov 2019"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "Product Designer"
-        company: "Google"
-        companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
 
   # Education
   education:
