@@ -2,73 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:4321/blogs/</loc>
+    <loc>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/actuarial-science/</loc>
+    <lastmod>2024-10-21T14:15:00+03:00</lastmod>
+  </url><url>
+    <loc>https://lynnstacykegeshi-personalwebsite.netlify.app/blogs/</loc>
+    <lastmod>2024-10-21T14:15:00+03:00</lastmod>
+  </url><url>
+    <loc>https://lynnstacykegeshi-personalwebsite.netlify.app/blogs/nasa2024/</loc>
+    <lastmod>2024-10-21T14:15:00+03:00</lastmod>
+  </url><url>
+    <loc>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/data-science/</loc>
+    <lastmod>2024-10-21T14:15:00+03:00</lastmod>
+  </url><url>
+    <loc>https://lynnstacykegeshi-personalwebsite.netlify.app/</loc>
+    <lastmod>2024-10-21T14:15:00+03:00</lastmod>
+  </url><url>
+    <loc>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/nasa/</loc>
+    <lastmod>2024-10-21T14:15:00+03:00</lastmod>
+  </url><url>
+    <loc>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/</loc>
+    <lastmod>2024-10-21T14:15:00+03:00</lastmod>
+  </url><url>
+    <loc>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/university-of-nairobi/</loc>
+    <lastmod>2024-10-21T14:15:00+03:00</lastmod>
+  </url><url>
+    <loc>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/example/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/example/</loc>
+    <loc>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/markdown-syntax/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:4321/</loc>
+    <loc>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/mathjax/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/markdown-syntax/</loc>
+    <loc>https://lynnstacykegeshi-personalwebsite.netlify.app/blogs/math/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/mathjax/</loc>
-    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/blogs/math/</loc>
-    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/</loc>
-    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/gallery/</loc>
+    <loc>https://lynnstacykegeshi-personalwebsite.netlify.app/gallery/</loc>
     <lastmod>2022-06-25T18:35:46+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:4321/blogs/markdown-syntax/</loc>
+    <loc>https://lynnstacykegeshi-personalwebsite.netlify.app/blogs/markdown-syntax/</loc>
     <lastmod>2021-04-03T23:29:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/sample/</loc>
+    <loc>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/sample/</loc>
     <lastmod>2021-04-03T23:29:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/emoji-support/</loc>
+    <loc>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/emoji-support/</loc>
     <lastmod>2021-04-03T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:4321/blogs/emoji-support/</loc>
+    <loc>https://lynnstacykegeshi-personalwebsite.netlify.app/blogs/emoji-support/</loc>
     <lastmod>2021-04-03T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/placeholder-text/</loc>
-    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/blogs/placeholder-text/</loc>
-    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/rich-content/</loc>
+    <loc>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/rich-content/</loc>
     <lastmod>2021-04-03T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:4321/blogs/rich-content/</loc>
+    <loc>https://lynnstacykegeshi-personalwebsite.netlify.app/blogs/rich-content/</loc>
     <lastmod>2021-04-03T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:4321/categories/</loc>
+    <loc>https://lynnstacykegeshi-personalwebsite.netlify.app/categories/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/post/2020-12-01-r-rmarkdown/</loc>
+    <loc>https://lynnstacykegeshi-personalwebsite.netlify.app/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/plot/</loc>
+    <loc>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/post/</loc>
+    <loc>https://lynnstacykegeshi-personalwebsite.netlify.app/post/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/categories/r/</loc>
+    <loc>https://lynnstacykegeshi-personalwebsite.netlify.app/categories/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/r-markdown/</loc>
+    <loc>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/regression/</loc>
+    <loc>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url>
 </urlset>

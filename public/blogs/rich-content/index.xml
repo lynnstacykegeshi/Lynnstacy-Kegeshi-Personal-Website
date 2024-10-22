@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rich Content on Lynnstacy Kegeshi</title>
-    <link>http://localhost:4321/blogs/rich-content/</link>
+    <link>https://lynnstacykegeshi-personalwebsite.netlify.app/blogs/rich-content/</link>
     <description>Recent content in Rich Content on Lynnstacy Kegeshi</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:4321/blogs/rich-content/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lynnstacykegeshi-personalwebsite.netlify.app/blogs/rich-content/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
