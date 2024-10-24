@@ -2,7 +2,7 @@
 author: Gurusabarish
 date: "2022-12-09T19:53:33+05:30"
 description: ""
-draft: false
+draft: true
 image: /images/mathjax.png
 mathjax: true
 tags:

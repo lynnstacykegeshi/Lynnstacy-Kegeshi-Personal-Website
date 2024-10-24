@@ -2,7 +2,7 @@
 author: Gurusabarish
 date: "2021-04-03T23:29:21+05:30"
 description: ""
-draft: false
+draft: true
 github_link: https://github.com/gurusabarish/hugo-profile
 image: /images/post.jpg
 tags:

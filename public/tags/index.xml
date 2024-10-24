@@ -2,101 +2,157 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Lynnstacy Kegeshi</title>
-    <link>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/</link>
+    <link>http://localhost:4321/tags/</link>
     <description>Recent content in Tags on Lynnstacy Kegeshi</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Oct 2024 14:15:00 +0300</lastBuildDate>
-    <atom:link href="https://lynnstacykegeshi-personalwebsite.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Oct 2024 14:15:00 +0300</lastBuildDate>
+    <atom:link href="http://localhost:4321/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Actuarial Science</title>
-      <link>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/actuarial-science/</link>
+      <title>Data Science</title>
+      <link>http://localhost:4321/tags/data-science/</link>
       <pubDate>Mon, 21 Oct 2024 14:15:00 +0300</pubDate>
-      <guid>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/actuarial-science/</guid>
+      <guid>http://localhost:4321/tags/data-science/</guid>
       <description></description>
     </item>
     <item>
-      <title>Data Science</title>
-      <link>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/data-science/</link>
+      <title>Ethics</title>
+      <link>http://localhost:4321/tags/ethics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/tags/ethics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GenerativeAI</title>
+      <link>http://localhost:4321/tags/generativeai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/tags/generativeai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ResponsibleAI</title>
+      <link>http://localhost:4321/tags/responsibleai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/tags/responsibleai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Actuarial Science</title>
+      <link>http://localhost:4321/tags/actuarial-science/</link>
       <pubDate>Mon, 21 Oct 2024 14:15:00 +0300</pubDate>
-      <guid>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/data-science/</guid>
+      <guid>http://localhost:4321/tags/actuarial-science/</guid>
       <description></description>
     </item>
     <item>
       <title>NASA</title>
-      <link>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/nasa/</link>
+      <link>http://localhost:4321/tags/nasa/</link>
       <pubDate>Mon, 21 Oct 2024 14:15:00 +0300</pubDate>
-      <guid>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/nasa/</guid>
+      <guid>http://localhost:4321/tags/nasa/</guid>
       <description></description>
     </item>
     <item>
       <title>University of Nairobi</title>
-      <link>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/university-of-nairobi/</link>
+      <link>http://localhost:4321/tags/university-of-nairobi/</link>
       <pubDate>Mon, 21 Oct 2024 14:15:00 +0300</pubDate>
-      <guid>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/university-of-nairobi/</guid>
+      <guid>http://localhost:4321/tags/university-of-nairobi/</guid>
       <description></description>
     </item>
     <item>
-      <title>Example</title>
-      <link>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/example/</link>
-      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
-      <guid>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/example/</guid>
+      <title>EnvironmentConservation</title>
+      <link>http://localhost:4321/tags/environmentconservation/</link>
+      <pubDate>Fri, 11 Oct 2024 14:15:00 +0300</pubDate>
+      <guid>http://localhost:4321/tags/environmentconservation/</guid>
       <description></description>
     </item>
     <item>
-      <title>Markdown Syntax</title>
-      <link>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/markdown-syntax/</link>
-      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
-      <guid>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/markdown-syntax/</guid>
+      <title>Mazingira Day</title>
+      <link>http://localhost:4321/tags/mazingira-day/</link>
+      <pubDate>Fri, 11 Oct 2024 14:15:00 +0300</pubDate>
+      <guid>http://localhost:4321/tags/mazingira-day/</guid>
       <description></description>
     </item>
     <item>
-      <title>Mathjax</title>
-      <link>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/mathjax/</link>
-      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
-      <guid>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/mathjax/</guid>
+      <title>Sustainability</title>
+      <link>http://localhost:4321/tags/sustainability/</link>
+      <pubDate>Fri, 11 Oct 2024 14:15:00 +0300</pubDate>
+      <guid>http://localhost:4321/tags/sustainability/</guid>
       <description></description>
     </item>
     <item>
-      <title>Sample</title>
-      <link>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/sample/</link>
-      <pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
-      <guid>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/sample/</guid>
+      <title>Werunnairobi</title>
+      <link>http://localhost:4321/tags/werunnairobi/</link>
+      <pubDate>Fri, 11 Oct 2024 14:15:00 +0300</pubDate>
+      <guid>http://localhost:4321/tags/werunnairobi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PrudentialAward</title>
+      <link>http://localhost:4321/tags/prudentialaward/</link>
+      <pubDate>Fri, 03 May 2024 14:15:00 +0300</pubDate>
+      <guid>http://localhost:4321/tags/prudentialaward/</guid>
       <description></description>
     </item>
     <item>
       <title>Emoji Support</title>
-      <link>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/emoji-support/</link>
+      <link>http://localhost:4321/tags/emoji-support/</link>
       <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
-      <guid>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/emoji-support/</guid>
+      <guid>http://localhost:4321/tags/emoji-support/</guid>
       <description></description>
     </item>
     <item>
-      <title>Rich Content</title>
-      <link>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/rich-content/</link>
-      <pubDate>Sat, 03 Apr 2021 19:53:33 +0530</pubDate>
-      <guid>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/rich-content/</guid>
+      <title>Example</title>
+      <link>http://localhost:4321/tags/example/</link>
+      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
+      <guid>http://localhost:4321/tags/example/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sample</title>
+      <link>http://localhost:4321/tags/sample/</link>
+      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
+      <guid>http://localhost:4321/tags/sample/</guid>
       <description></description>
     </item>
     <item>
       <title>Plot</title>
-      <link>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/plot/</link>
+      <link>http://localhost:4321/tags/plot/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/plot/</guid>
+      <guid>http://localhost:4321/tags/plot/</guid>
       <description></description>
     </item>
     <item>
       <title>R Markdown</title>
-      <link>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/r-markdown/</link>
+      <link>http://localhost:4321/tags/r-markdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/r-markdown/</guid>
+      <guid>http://localhost:4321/tags/r-markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Regression</title>
-      <link>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/regression/</link>
+      <link>http://localhost:4321/tags/regression/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>https://lynnstacykegeshi-personalwebsite.netlify.app/tags/regression/</guid>
+      <guid>http://localhost:4321/tags/regression/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown Syntax</title>
+      <link>http://localhost:4321/tags/markdown-syntax/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/tags/markdown-syntax/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mathjax</title>
+      <link>http://localhost:4321/tags/mathjax/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/tags/mathjax/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rich Content</title>
+      <link>http://localhost:4321/tags/rich-content/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/tags/rich-content/</guid>
       <description></description>
     </item>
   </channel>

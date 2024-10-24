@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ethics on Lynnstacy Kegeshi</title>
+    <link>http://localhost:4321/tags/ethics/</link>
+    <description>Recent content in Ethics on Lynnstacy Kegeshi</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Oct 2024 14:15:00 +0300</lastBuildDate>
+    <atom:link href="http://localhost:4321/tags/ethics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Responsible AI (EY Badge)</title>
+      <link>http://localhost:4321/blogs/responsibleai/</link>
+      <pubDate>Mon, 28 Oct 2024 14:15:00 +0300</pubDate>
+      <guid>http://localhost:4321/blogs/responsibleai/</guid>
+      <description>&lt;h2 id=&#34;lessons-from-eys-responsible-ai-badge&#34;&gt;Lessons from EY&amp;rsquo;s Responsible AI Badge&lt;/h2&gt;&#xA;&lt;p&gt;Recently, I finished EY’s Responsible AI badge, and it was a real eye-opener. I went into the course hoping to better understand the ethical implications of working with AI, especially generative models like ChatGPT. My focus was on learning how to protect client data when it came to AI, while also ensuring that I stay ethical when using these powerful tools.&lt;/p&gt;&#xA;&lt;p&gt;Two courses in particular stood out: &lt;em&gt;Data Science Ethics&lt;/em&gt; and &lt;em&gt;Big Data, Artificial Intelligence, and Ethics&lt;/em&gt;, both from Coursera. They weren’t just theoretical but dove deep into real-world examples, showing the impact of bias, fairness, and transparency. It was fascinating to see how privacy and accountability are not just technical issues but ethical ones too. The courses made me rethink the way we interact with AI—there’s a lot more to consider beyond just the technical efficiency of these systems.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
