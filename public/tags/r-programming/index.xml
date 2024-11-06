@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Programming on Lynnstacy Kegeshi</title>
+    <link>http://localhost:4321/tags/r-programming/</link>
+    <description>Recent content in R Programming on Lynnstacy Kegeshi</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Nov 2024 14:15:00 +0300</lastBuildDate>
+    <atom:link href="http://localhost:4321/tags/r-programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Websites with R</title>
+      <link>http://localhost:4321/blogs/hugoblog/</link>
+      <pubDate>Tue, 05 Nov 2024 14:15:00 +0300</pubDate>
+      <guid>http://localhost:4321/blogs/hugoblog/</guid>
+      <description>&lt;h2 id=&#34;building-a-website-with-r-and-rstudio&#34;&gt;Building a Website with R and RStudio&lt;/h2&gt;&#xA;&lt;p&gt;When you think of R programming, one of the first things that come to mind is its usefulness as a tool for data analysis and visualization. It’s a powerful tool for statistical computing. But did you know that you can also build a website with R and RStudio? Using Hugo themes as your starting point, you can deploy a website on Netlify free of charge! Here’s a rough summary of how to get started.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

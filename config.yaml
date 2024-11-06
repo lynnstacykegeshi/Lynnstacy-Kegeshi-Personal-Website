@@ -29,11 +29,7 @@ Menus:
       title: Blog posts
       url: /blogs
       weight: 1
-    - identifier: gallery
-      name: Gallery
-      title: Blog posts
-      url: /gallery
-      weight: 2
+
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
@@ -134,11 +130,11 @@ params:
     image: /images/lynnprofile.jpeg
     bottomImage:
       enable: true
-      roundImage: true # Make hero image circular | default false
+      roundImage: true 
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "/lynnstacy-kegeshi-cv.pdf"
       download: true
       newPage: false
     socialLinks:
@@ -188,9 +184,9 @@ params:
           enable: true
           content: Currently working at Ernst & Young LLP Kenya
         content: |
-          I am currently working as a tax advisor at [Ernst & Young Kenya](https://www.ey.com/en_ke) in Nairobi Kenya. As an Associate in the International Tax and Transfer Pricing sub-service line, I support senior team members in providing tax advisory and compliance services. 
+          I am currently working as a tax advisor at [Ernst & Young Kenya](https://www.ey.com/en_ke) in Nairobi Kenya. After gaining foundational experience as an Audit Associate from August 2023 to July 2024, I transitioned in August 2024 to the International Tax and Transfer Pricing sub-service line, where I now support senior team members in delivering tax advisory and compliance services. 
           
-          My key responsibilities include:
+          In my current role, my key responsibilities include:
           
           - Tax Due Diligence Support: Assisting with tax due diligence reviews to help clients improve deal structures and minimize tax risks during mergers and acquisitions.
           - Cross-Border Tax Assistance: Supporting tax advisory services related to cross-border transactions, including the tax implications of permanent establishments and foreign operations.
@@ -291,22 +287,31 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Google kickstart runner
-        content: I solved all problems with optimal solution.
-        url: https://example.com
-        image: /images/achievment.jpg
-      - title: Facebook Hackathon Winner
-        content: Developed a product using Artificial Intelligence.
-        image: /images/achievment.jpg
-      - title: Hugo Profile
-        content: Developed a theme and getting 1K+ downloads per month.
-        url: "https://github.com/gurusabarish/hugo-profile"
-        image: /images/achievment.jpg
-      - title: Microsoft Imagine Runner
-        content: We are developed a product which can help others.
-      - title: Google Summer of Code
-        content: Contributed to a open source project.
-        url: https://example.com
+      - title: EY Finance Badge 2024
+        content: Completed learnings on the EY Finance Badge and successfully applied it to my work
+        url: https://www.credly.com/badges/1ca3010a-2992-4029-8717-5b0231b65a51/public_url
+        image: /images/ey-finance-bronze.png
+      - title: EY Analytics Data Science Badge 2024
+        content: Completed Courses on the Data Science and successfully applied it to my work.
+        url: https://www.credly.com/badges/c7a80875-5eca-48ff-ad24-5a813ce520d3/public_url
+        image: /images/ey-analytics-data-science-bronze.png
+      - title: EY Better Me - Wellbeing Badge
+        content: Completed learnings to better myself in the workplace
+        url: https://www.credly.com/badges/c58a9b14-db76-4e0f-8b05-c025c41e7ef0/public_url
+        image: /images/ey-better-me-wellbeing-bronze-learning.png
+      - title: EY Artificial Intelligence - Responsible AI
+        content: Completed the Responsible AI learnings
+        url: https://www.credly.com/badges/25e2b50e-947e-494e-b21a-50c5e2eea4be/public_url
+        image: /images/responsibleai.png
+      - title: Big Data, Artificial Intelligence and Ethics
+        content: Completed the University of California Course on Big Data, UC Davis
+        url: https://www.coursera.org/account/accomplishments/verify/LK9GJU74DML6
+        image: /images/bigdata-ai-and-ethics.png
+      - title: Data Science Ethics
+        content: Completed the University of Michigan Course on Data Ethics.
+        url: https://www.coursera.org/account/accomplishments/verify/FZEYU7RORS4A
+        image: /images/data-science-ethics.PNG
+      
 
   # projects
   projects:

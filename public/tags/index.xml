@@ -6,33 +6,61 @@
     <description>Recent content in Tags on Lynnstacy Kegeshi</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Oct 2024 14:15:00 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 14:15:00 +0300</lastBuildDate>
     <atom:link href="http://localhost:4321/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HugoThemes</title>
+      <link>http://localhost:4321/tags/hugothemes/</link>
+      <pubDate>Tue, 05 Nov 2024 14:15:00 +0300</pubDate>
+      <guid>http://localhost:4321/tags/hugothemes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Netlify</title>
+      <link>http://localhost:4321/tags/netlify/</link>
+      <pubDate>Tue, 05 Nov 2024 14:15:00 +0300</pubDate>
+      <guid>http://localhost:4321/tags/netlify/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>R Programming</title>
+      <link>http://localhost:4321/tags/r-programming/</link>
+      <pubDate>Tue, 05 Nov 2024 14:15:00 +0300</pubDate>
+      <guid>http://localhost:4321/tags/r-programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WebDevelopment</title>
+      <link>http://localhost:4321/tags/webdevelopment/</link>
+      <pubDate>Tue, 05 Nov 2024 14:15:00 +0300</pubDate>
+      <guid>http://localhost:4321/tags/webdevelopment/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Data Science</title>
       <link>http://localhost:4321/tags/data-science/</link>
-      <pubDate>Mon, 21 Oct 2024 14:15:00 +0300</pubDate>
+      <pubDate>Mon, 28 Oct 2024 14:15:00 +0300</pubDate>
       <guid>http://localhost:4321/tags/data-science/</guid>
       <description></description>
     </item>
     <item>
       <title>Ethics</title>
       <link>http://localhost:4321/tags/ethics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 28 Oct 2024 14:15:00 +0300</pubDate>
       <guid>http://localhost:4321/tags/ethics/</guid>
       <description></description>
     </item>
     <item>
       <title>GenerativeAI</title>
       <link>http://localhost:4321/tags/generativeai/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 28 Oct 2024 14:15:00 +0300</pubDate>
       <guid>http://localhost:4321/tags/generativeai/</guid>
       <description></description>
     </item>
     <item>
       <title>ResponsibleAI</title>
       <link>http://localhost:4321/tags/responsibleai/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 28 Oct 2024 14:15:00 +0300</pubDate>
       <guid>http://localhost:4321/tags/responsibleai/</guid>
       <description></description>
     </item>
@@ -93,6 +121,34 @@
       <description></description>
     </item>
     <item>
+      <title>Example</title>
+      <link>http://localhost:4321/tags/example/</link>
+      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
+      <guid>http://localhost:4321/tags/example/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown Syntax</title>
+      <link>http://localhost:4321/tags/markdown-syntax/</link>
+      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
+      <guid>http://localhost:4321/tags/markdown-syntax/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mathjax</title>
+      <link>http://localhost:4321/tags/mathjax/</link>
+      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
+      <guid>http://localhost:4321/tags/mathjax/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sample</title>
+      <link>http://localhost:4321/tags/sample/</link>
+      <pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
+      <guid>http://localhost:4321/tags/sample/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Emoji Support</title>
       <link>http://localhost:4321/tags/emoji-support/</link>
       <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
@@ -100,17 +156,10 @@
       <description></description>
     </item>
     <item>
-      <title>Example</title>
-      <link>http://localhost:4321/tags/example/</link>
-      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
-      <guid>http://localhost:4321/tags/example/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sample</title>
-      <link>http://localhost:4321/tags/sample/</link>
-      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
-      <guid>http://localhost:4321/tags/sample/</guid>
+      <title>Rich Content</title>
+      <link>http://localhost:4321/tags/rich-content/</link>
+      <pubDate>Sat, 03 Apr 2021 19:53:33 +0530</pubDate>
+      <guid>http://localhost:4321/tags/rich-content/</guid>
       <description></description>
     </item>
     <item>
@@ -132,27 +181,6 @@
       <link>http://localhost:4321/tags/regression/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       <guid>http://localhost:4321/tags/regression/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Markdown Syntax</title>
-      <link>http://localhost:4321/tags/markdown-syntax/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/tags/markdown-syntax/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mathjax</title>
-      <link>http://localhost:4321/tags/mathjax/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/tags/mathjax/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Rich Content</title>
-      <link>http://localhost:4321/tags/rich-content/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/tags/rich-content/</guid>
       <description></description>
     </item>
   </channel>
