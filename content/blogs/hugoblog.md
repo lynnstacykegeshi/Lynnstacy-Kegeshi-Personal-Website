@@ -52,6 +52,6 @@ This guide provides a simplified approach, but if you’d like to dive deeper, I
 by Yihui Xie. It’s an excellent resource for beginners and advanced users alike.
 
 ### Considerations for Mobile Responsiveness
-One important point to note is that not all Hugo themes are optimized for mobile devices. A responsive design ensures the website adapts to various screen sizes, orientations, layouts, and platforms. Before choosing a theme, I recommend testing it on different devices to ensure it provides a seamless experience across screens.On my next project, this is something I would definitely test before deploying my site on Netlify.
+One important point to note is that not all Hugo themes are optimized for mobile devices. A responsive design ensures the website adapts to various screen sizes, orientations, layouts, and platforms. Before choosing a theme, I recommend testing it on different devices to ensure it provides a seamless experience across screens.On my next project, this is something I would definitely check on before deploying my site on Netlify.
 
 Enjoy building your site with R and RStudio—it's a rewarding and creative journey!
