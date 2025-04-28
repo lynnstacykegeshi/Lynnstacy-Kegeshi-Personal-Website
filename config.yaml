@@ -245,7 +245,7 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Master of Business Administration"
+      - title: "Master of Science in Data Science"
         school:
           name: "University of Nairobi"
           url: "https://mathematics.uonbi.ac.ke/admission-content-type/master-science-data-science"
